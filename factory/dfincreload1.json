@@ -1,0 +1,9 @@
+{
+	"name": "dfincreload1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8cde8de-3901-43f9-982f-af51162b32e2",
+		"tenantId": "3d613bab-9fb2-4673-8e18-cd3138b254d5"
+	}
+}
